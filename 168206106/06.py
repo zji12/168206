@@ -23,8 +23,8 @@ infinitely = float("inf")
 costs={}
 costs["changpian"]=5
 costs["haibao"]=0
-costs["jita"]=infinity
-costs["jiazigu"]=infinity
+costs["jita"]=infinitely
+costs["jiazigu"]=infinitely
 costs["gangqing"]=infinitely
 
 parents={}
